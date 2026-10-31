@@ -1,0 +1,2 @@
+camera_ip,nvr,channel,name,manage_port,online,remark
+192.0.2.10,192.0.2.1,D1,Example Camera,8000,TRUE,Replace with camera details

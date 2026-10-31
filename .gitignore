@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+config.env*
+camera_n_nvr.csv
+disabled_cameras.json
+webgui_state.json
+output/
+__pycache__/
+.DS_Store

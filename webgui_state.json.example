@@ -1,0 +1,19 @@
+{
+  "csv": "camera_n_nvr.csv",
+  "mode": "both",
+  "workers": 4,
+  "per_nvr": 2,
+  "remux_workers": 2,
+  "timeout": 120,
+  "tz_offset_hours": 7,
+  "last_minutes": 5,
+  "start": "",
+  "end": "",
+  "trim": false,
+  "time_mode": "single",
+  "start_date": "",
+  "end_date": "",
+  "daily_start": "10:00",
+  "daily_end": "22:00",
+  "camera_windows": {}
+}
